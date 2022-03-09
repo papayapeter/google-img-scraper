@@ -9,4 +9,4 @@ Run the script with `python scraper.py --search "search string"`.
 ## Requirements
 
 - Python > 3.5
-- Chromedriver (https://sites.google.com/a/chromium.org/chromedriver/downloads) & corresponding Chrome version.
+- Chromedriver (https://sites.google.com/chromium.org/driver/) & corresponding Chrome version.
